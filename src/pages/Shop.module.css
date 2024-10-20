@@ -1,0 +1,37 @@
+.shopPage{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.header{
+  font-size: 19px;
+  width: 81.5%;
+  font-family: "Kaisei Decol", serif;
+  font-weight: 400;
+  margin-top: 120px;
+  color: #363232;
+}
+.itemGrid{
+  display: flex;
+  flex-wrap: wrap;
+  width: 81.5%;
+  margin-top: 60px;
+  justify-content: space-between;
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .header{
+    font-size: 16px;
+  }
+}
+@media only screen and (min-width: 360px) and (max-width: 765px) {
+  .header{
+    font-size: 17px;
+    width: 73%;
+    margin-top: 120px;
+  }
+  .itemGrid{
+    width: 73%;
+    margin-top: 40px;
+  }
+}
