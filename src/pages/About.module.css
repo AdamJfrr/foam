@@ -1,0 +1,81 @@
+.aboutPage{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.header{
+  font-size: 19px;
+  width: 81.5%;
+  font-family: "Kaisei Decol", serif;
+  font-weight: 400;
+  margin-top: 120px;
+  color: #363232;
+}
+.aboutDiv{
+  width: 81.5%;
+  display:flex;
+  justify-content: space-between;
+  margin-top: 60px;
+  font-family: "Kaisei Decol", serif;
+  font-weight: 400;
+  font-size: 19px;
+  color: #363232;
+}
+.aboutLeft{
+  width: 45%;
+}
+.aboutRight{
+  width: 45%;
+}
+.imageDiv {
+  width: 81.5%;
+  height: 400px;
+  margin-top: 60px;
+  margin-bottom: 30px;
+  border: 1px solid #363232;
+  border-radius: 16px;
+}
+.imageDiv img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  border-radius: 16px;
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .aboutDiv{
+    font-size: 16px;
+  }
+  .header{
+    font-size: 16px;
+    margin-top: 120px;
+  }
+  .imageDiv{
+    height: 400px;
+  }
+}
+@media only screen and (min-width: 360px) and (max-width: 768px) {
+  .aboutDiv{
+    font-size: 12px;
+    display: flex;
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+  }
+  .aboutLeft{
+    width: 100%;
+  }
+  .aboutRight{
+    width: 100%;
+    margin-top: 40px;
+  }
+  .header{
+    font-size: 17px;
+    width: 75%;
+    margin-top: 120px;
+  }
+  .imageDiv{
+    height: 150px;
+    width: 75%;
+  }
+}
