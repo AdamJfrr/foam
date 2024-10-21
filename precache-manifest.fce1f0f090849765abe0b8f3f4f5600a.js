@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eed346101a3740127ae2150ef7328dbd",
+    "revision": "fa918afab39dfcf61d7f59f66f6c70fb",
     "url": "/foam/index.html"
   },
   {
-    "revision": "8f0db0d1fc73ff68b396",
-    "url": "/foam/static/css/main.08ce97f1.chunk.css"
+    "revision": "5e06cd6b0d7651042f69",
+    "url": "/foam/static/css/main.ffe28cdf.chunk.css"
   },
   {
     "revision": "38458ffff964d08f993f",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foam/static/js/3.cd112139.chunk.js"
   },
   {
-    "revision": "8f0db0d1fc73ff68b396",
+    "revision": "5e06cd6b0d7651042f69",
     "url": "/foam/static/js/main.bb86ffff.chunk.js"
   },
   {
