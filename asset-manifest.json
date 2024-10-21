@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/foam/static/css/main.ffe28cdf.chunk.css",
+    "main.css": "/foam/static/css/main.951202c7.chunk.css",
     "main.js": "/foam/static/js/main.bb86ffff.chunk.js",
     "main.js.map": "/foam/static/js/main.bb86ffff.chunk.js.map",
     "runtime-main.js": "/foam/static/js/runtime-main.89ee7cc0.js",
@@ -10,9 +10,9 @@
     "static/js/3.cd112139.chunk.js": "/foam/static/js/3.cd112139.chunk.js",
     "static/js/3.cd112139.chunk.js.map": "/foam/static/js/3.cd112139.chunk.js.map",
     "index.html": "/foam/index.html",
-    "precache-manifest.fce1f0f090849765abe0b8f3f4f5600a.js": "/foam/precache-manifest.fce1f0f090849765abe0b8f3f4f5600a.js",
+    "precache-manifest.a3a775312efacc874cfd514f8426fba2.js": "/foam/precache-manifest.a3a775312efacc874cfd514f8426fba2.js",
     "service-worker.js": "/foam/service-worker.js",
-    "static/css/main.ffe28cdf.chunk.css.map": "/foam/static/css/main.ffe28cdf.chunk.css.map",
+    "static/css/main.951202c7.chunk.css.map": "/foam/static/css/main.951202c7.chunk.css.map",
     "static/js/2.5b00fceb.chunk.js.LICENSE.txt": "/foam/static/js/2.5b00fceb.chunk.js.LICENSE.txt",
     "static/media/about.jpg": "/foam/static/media/about.25071db2.jpg",
     "static/media/bubble.png": "/foam/static/media/bubble.17f3b2ef.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.89ee7cc0.js",
     "static/js/2.5b00fceb.chunk.js",
-    "static/css/main.ffe28cdf.chunk.css",
+    "static/css/main.951202c7.chunk.css",
     "static/js/main.bb86ffff.chunk.js"
   ]
 }
